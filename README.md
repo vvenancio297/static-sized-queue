@@ -18,5 +18,5 @@ queue.push(element)
 queue.pop
 
 # printing queue state
-print queue.elements
+print queue.items
 ```
